@@ -9,7 +9,7 @@
 // 3) let userName
 // Запишіть номер правильної відповіді (1, 2 або 3) у змінну task1Answer
 
-const task1Answer = null; // <- ваша відповідь
+const task1Answer = 3; // <- ваша відповідь
 
 
 // Задача №2
@@ -18,8 +18,7 @@ const task1Answer = null; // <- ваша відповідь
 //   userName = "Іштван"
 // Запишіть true (буде помилка) або false (не буде) у змінну task2Answer
 
-const task2Answer = null; // <- ваша відповідь
-
+const task2Answer = true; // <- ваша відповідь
 
 // Задача №3
 // Що потрапить в консоль?
@@ -29,7 +28,7 @@ const task2Answer = null; // <- ваша відповідь
 //   console.log(numSumm)
 // Запишіть результат як рядок у змінну task3Answer
 
-const task3Answer = null; // <- ваша відповідь
+const task3Answer = "2020"; // <- ваша відповідь
 
 
 module.exports = { task1Answer, task2Answer, task3Answer };
